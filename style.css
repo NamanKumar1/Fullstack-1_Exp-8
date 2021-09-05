@@ -66,9 +66,17 @@ a {
     width: 505px;
     height: 15px;
     text-align: justify;
-    color: white;
 }
 
 #article3 {
     margin-bottom: 4px;
+    background-color: rgb(211, 211, 211);
+}
+
+#article1 {
+    background-color: rgb(211, 211, 211);
+}
+
+#article2 {
+    background-color: skyblue;
 }
