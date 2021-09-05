@@ -51,21 +51,21 @@ a {
 .main {
     background-color: grey;
     color: white;
-    width: 625px;
+    width: 678px;
     text-align: justify;
     margin: 4px;
+    padding: 10px;
 }
 
 .article {
-    background-color: tomato;
     margin-right: 4px;
     margin-left: 4px;
     margin-top: 4px;
     margin-bottom: 10px;
     padding: 65px;
-    width: 473px;
-    height: 40px;
-    text-align: center;
+    width: 505px;
+    height: 15px;
+    text-align: justify;
     color: white;
 }
 
