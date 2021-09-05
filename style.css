@@ -6,3 +6,8 @@
 a {
     text-decoration: none;
 }
+
+.navigation {
+    background-color: grey;
+    padding: 25px;
+}
