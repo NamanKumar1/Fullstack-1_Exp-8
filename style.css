@@ -35,3 +35,11 @@ a {
 .team_img {
     display: inline-flex;
 }
+
+.team {
+    margin-right: 120px;
+}
+
+#team1 {
+    margin-left: 120px;
+}
