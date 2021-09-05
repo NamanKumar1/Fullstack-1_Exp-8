@@ -43,3 +43,32 @@ a {
 #team1 {
     margin-left: 120px;
 }
+
+.sec2content {
+    display: inline-flex;
+}
+
+.main {
+    background-color: grey;
+    color: white;
+    width: 625px;
+    text-align: justify;
+    margin: 4px;
+}
+
+.article {
+    background-color: tomato;
+    margin-right: 4px;
+    margin-left: 4px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    padding: 65px;
+    width: 473px;
+    height: 40px;
+    text-align: center;
+    color: white;
+}
+
+#article3 {
+    margin-bottom: 4px;
+}
