@@ -31,3 +31,7 @@ a {
 #background {
     margin-bottom: 50px;
 }
+
+.team_img {
+    display: inline-flex;
+}
