@@ -136,3 +136,7 @@ button:hover {
     padding: 15px;
     font-size: 30px;
 }
+
+a:hover {
+    color: orange;
+}
